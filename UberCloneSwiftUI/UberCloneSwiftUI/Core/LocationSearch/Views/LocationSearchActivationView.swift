@@ -28,7 +28,6 @@ struct LocationSearchActivationView: View {
             Rectangle()
                 .fill(Color.white)
                 .shadow(color: .black, radius: 6)
-
         )
     }
 }
